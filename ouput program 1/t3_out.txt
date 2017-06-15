@@ -1,0 +1,4 @@
+MyThread[3]: Line[1]: I like the leaves
+MyThread[3]: Line[2]: that fall from the trees.
+MyThread[3]: Line[3]: The reds, greens, and browns
+MyThread[3]: Line[4]: we rake into a mound.

@@ -1,0 +1,3 @@
+MyThread[2]: Line[1]: Six of one;
+MyThread[2]: Line[2]: a dozen of the other.
+

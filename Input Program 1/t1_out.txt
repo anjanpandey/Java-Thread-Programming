@@ -1,0 +1,4 @@
+MyThread[1]: Line[1]: Do what you love,
+MyThread[1]: Line[2]: love what you do,
+MyThread[1]: Line[3]: and deliver more than you promise.
+
